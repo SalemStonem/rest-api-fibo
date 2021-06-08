@@ -1,4 +1,4 @@
-# Fibonacci REST API Preba Wolf
+# Fibonacci REST API test Wolf
 
 Instructions:
 
